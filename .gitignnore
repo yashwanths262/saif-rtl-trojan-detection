@@ -1,0 +1,27 @@
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.dcp
+*.bit
+*.ltx
+
+# Vivado generated directories
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.xsim/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
